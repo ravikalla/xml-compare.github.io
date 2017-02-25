@@ -28,7 +28,7 @@
 ![https://github.com/ravikalla/screenshots/blob/master/ComparisonResults.png](https://github.com/ravikalla/screenshots/blob/master/ComparisonResults.png)
 
 ### Generate Java Documentation
-    javadoc:javadoc
+    mvn javadoc:javadoc
 ### Javadoc website
     http://xml-compare.github.io/
 ### Javadoc upload reference
