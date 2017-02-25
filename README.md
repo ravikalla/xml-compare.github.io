@@ -22,11 +22,14 @@
 
     docker run -p 8084:8080 -v /home/ravi/Desktop/Projects/xml-compare/src/main/resources:/usr/src -t ravikalla/xml-compare /usr/src/XML1.xml /usr/src/XML2.xml /usr/src/Results.xls
 
-### Generate Java Documentation
-    javadoc:javadoc
-
 ### Input files:
 ![https://github.com/ravikalla/screenshots/blob/master/XMLs.png](https://github.com/ravikalla/screenshots/blob/master/XMLs.png)
 ### Result:
 ![https://github.com/ravikalla/screenshots/blob/master/ComparisonResults.png](https://github.com/ravikalla/screenshots/blob/master/ComparisonResults.png)
 
+### Generate Java Documentation
+    javadoc:javadoc
+### Javadoc website
+    http://xml-compare.github.io/
+### Javadoc upload reference
+    https://vaadin.com/blog/-/blogs/host-your-javadoc-s-online-in-github
